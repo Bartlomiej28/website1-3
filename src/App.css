@@ -1,0 +1,23 @@
+body{
+  background: radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.section{
+  margin-bottom: 3rem;
+}
+
+.row{
+  display: flex;
+  align-items: center;
+  height: auto;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+

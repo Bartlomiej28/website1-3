@@ -1,0 +1,47 @@
+.openAI{
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    display: flex;
+    align-items: center;
+  }
+  
+  .openAI-desc{
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 2rem;
+  }
+  
+  .openAI-advantages{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-bottom: 5rem;
+  }
+  
+  .advantage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10rem;
+    width: 100%;
+  }
+  
+  .advantage-name{
+    color: white;
+    font-weight: bold;
+    width: 30%;
+  }
+  
+  .advantage-desc{
+    color: #81AFDD;
+    width: 70%;
+  }
+  
+  @media screen and (max-width: 991px) {
+    .advantage{
+      gap: 2rem;
+    }
+  }

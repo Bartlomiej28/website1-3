@@ -1,0 +1,38 @@
+.case-studies{
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    display: flex;
+    align-items: center;
+  }
+  
+  .case-studies-desc{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    color: #81AFDD;
+    font-size: 16px;
+  }
+  
+  .subtitle{
+    color: #71E5FF;
+    font-size: 16px;
+  }
+  
+  .case-studies-title{
+    font-size: 34px;
+    font-weight: bold;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  
+  
+  .case-studies-subtext{
+    color: #FF8A71;
+    font-size: 16px;
+  }

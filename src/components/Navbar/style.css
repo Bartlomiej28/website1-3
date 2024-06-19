@@ -1,0 +1,11 @@
+.navbar{
+    color: white;
+    height: 58px;
+    font-size: 18px;
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
