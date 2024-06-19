@@ -17,10 +17,11 @@ export default function CaseStudies() {
                 The possibilities are beyond your imagination
               </div>
               <div className="case-studies-desc">
-                Yet bed any for travelling assistance indulgence unpleasing. Not
-                thoughts all exercise blessing. Indulgence way everything joy
-                alteration boisterous the attachment. Party we years to order
-                allow asked of.
+               This advanced language model developed by OpenAI enables solving complex problems, 
+               generating creative ideas, and delivering intuitive responses to diverse questions. 
+               Leveraging natural language processing capabilities, ChatGPT can be utilized for task automation, 
+               customer support, content creation, and exploration of new ideas, surpassing traditional boundaries 
+               of communication and thinking.
               </div>
               <div className="case-studies-subtext">
                 Request Early Access to Get Started

@@ -18,32 +18,25 @@ export default function OpenAi() {
                   Improving end distrusts instantly{" "}
                 </div>
                 <div className="advantage-desc">
-                  From they fine john he give of rich he. They age and draw mrs
-                  like. Improving end distrusts may instantly was household
-                  applauded.
+                  Discover immediate solutions to enhance trust and confidence effectively and efficiently.
                 </div>
               </div>
               <div className="advantage ">
                 <div className="advantage-name ">Become the tended active</div>
                 <div className="advantage-desc ">
-                  Considered sympathize ten uncommonly occasional assistance
-                  sufficient not. Letter of on become he tended active enable
-                  to.
+                  Transform into an engaged and proactive participant, driving meaningful change and impact.
                 </div>
               </div>
               <div className="advantage ">
                 <div className="advantage-name ">Message or am nothing</div>
                 <div className="advantage-desc ">
-                  Led ask possible mistress relation elegance eat likewise
-                  debating. By message or am nothing amongst chiefly address.
+                  Embrace the power of communication to define your existence and influence.
                 </div>
               </div>
               <div className="advantage ">
                 <div className="advantage-name ">Really boy law county</div>
                 <div className="advantage-desc ">
-                  Really boy law county she unable her sister. Feet you off its
-                  like like six. Among sex are leave law built now. In built
-                  table in an rapid blush.
+                  Explore the genuine impact of legal decisions on local communities and beyond.
                 </div>
               </div>
             </div>
