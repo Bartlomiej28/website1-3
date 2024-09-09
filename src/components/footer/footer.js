@@ -10,7 +10,7 @@ export default function Footer() {
             </div>
             <div className="footer-tab row">
               <div className="footer-tab-1 col-xl-3 col-md-3 col-sm-12">
-                <div className="tab-1-title h1">GPT-3</div><p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
+                <div className="tab-1-title h1">GPT-3</div><p>All Rights Reserved By Bartłomiej Boczyło</p>
               </div>
               <div className="footer-tab-2 col-xl-3 col-md-3 col-sm-12">
                 <div className="tab-2-title">Links</div>
